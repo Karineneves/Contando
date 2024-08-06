@@ -1,0 +1,32 @@
+body{
+    background-color: #c0e3c2;
+    font: normal 15 pt arial;
+}
+
+header{
+    color: #6046ae;
+    text-align: center;
+    font: normal arial;
+}
+
+section{
+    background-color:  #aea3d0;;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    font-style: normal arial;
+    box-shadow: 5px 5px 10px rgba(rgba(11, 1, 1, 0.051));
+}
+
+div{
+    text-align: center;
+    padding: 8px;
+    font: normal arial;
+}
+
+footer{
+    color: #0f0000;
+    text-align: center;
+    font:100 arial;
+}
